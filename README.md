@@ -79,7 +79,7 @@
   <a href="https://leetcode.com/u/goswami_ji_086/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://github.com/sumitkumargiri01-web" target="_blank">
+  <a href="https://github.com/sumitkumargiri086-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
