@@ -11,7 +11,7 @@
 
 - 🎓 1st/2nd Year **Computer Science** student
 - 🧠 Currently mastering **Data Structures & Algorithms**
-- 🌱 Learning **C++ / Java / Python** for competitive programming
+- 🌱 Learning  Java / Python** for competitive programming
 - 🔭 Working on personal projects to build my portfolio
 - 💬 Ask me about **Arrays, Linked Lists, Trees, Sorting Algorithms**
 - 📫 Reach me at: **sumitkumargiri01@gmail.com** *(update if needed)*
@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -73,10 +73,10 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sumitkumargiri" target="_blank">
+  <a href="[https://linkedin.com/in/sumitkumargiri](https://www.linkedin.com/in/sumit-kumar-giri-3b7358333?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/sumitkumargiri" target="_blank">
+  <a href="[https://leetcode.com/sumitkumargiri](https://leetcode.com/u/goswami_ji_086/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://github.com/sumitkumargiri01-web" target="_blank">
