@@ -73,7 +73,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/sumitkumargiri](https://www.linkedin.com/in/sumit-kumar-giri-3b7358333?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+  <a href="https://www.linkedin.com/in/sumit-kumar-giri-3b7358333?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/goswami_ji_086/" target="_blank">
