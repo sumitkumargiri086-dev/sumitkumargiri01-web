@@ -14,7 +14,7 @@
 - 🌱 Learning  Java / Python** for competitive programming
 - 🔭 Working on personal projects to build my portfolio
 - 💬 Ask me about **Arrays, Linked Lists, Trees, Sorting Algorithms**
-- 📫 Reach me at: **sumitkumargiri01@gmail.com** *(update if needed)*
+- 📫 Reach me at: **sumitkumargiri086@gmail.com** *(update if needed)*
 - ⚡ Fun fact: I debug code more than I write it 😄
 
 ---
