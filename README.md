@@ -11,7 +11,7 @@
 
 - 🎓 1st/2nd Year **Computer Science** student
 - 🧠 Currently mastering **Data Structures & Algorithms**
-- 🌱 Learning  Java / Python** for competitive programming
+- 🌱 Learning  Java for competitive programming
 - 🔭 Working on personal projects to build my portfolio
 - 💬 Ask me about **Arrays, Linked Lists, Trees, Sorting Algorithms**
 - 📫 Reach me at: **sumitkumargiri086@gmail.com** *(update if needed)*
@@ -38,9 +38,8 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Used |
 |-----------|---------------|-------------|
-| [🔗 Project 1](#) | Brief description of what it does | C++ / Python |
-| [🔗 Project 2](#) | Brief description of what it does | HTML / CSS / JS |
-| [🔗 Project 3](#) | Brief description of what it does | Java / DSA |
+| [🔗 Project 1](#) | Brief description of what it does | HTML / CSS / JS |
+| [🔗 Project 2](#) | Brief description of what it does | Java / DSA |
 
 > 💡 *Replace the above with your actual projects and links!*
 
